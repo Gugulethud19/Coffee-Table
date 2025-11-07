@@ -19,7 +19,7 @@ This project explores transactional data from Bright Coffee Shop to deliver mean
   1. SQL- To clean, transform and analyze data
   2.  Snowflake- for queries
   3. Microsoft Ecxel- To review my data
-  4. Google looker- For data visuals and create dashboards
+  4. Microsoft powerpoint- For data visuals and create dashboards
 
 # Key insights
 
