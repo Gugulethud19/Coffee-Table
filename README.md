@@ -22,4 +22,18 @@ This project explores transactional data from Bright Coffee Shop to deliver mean
   4. Google looker- For data visuals and create dashboards
 
 # Key insights
-  
+
+1.Morning hours (06:00–11:59) consistently generate the highest revenue
+
+2.Tea and Coffee are top-performing products
+
+3.Underperforming items present opportunities for targeted promotions
+
+4.Sales drop significantly after 8 PM, suggesting potential for evening campaigns
+
+# Methodology
+
+1. Designed my mindmap using Miro. Defined key metrics and time buckets
+2. I processed my data using Snowflake. Cleaned and transformed the raw data and created the time bucket column.
+3. Analyzed and built pivot tables/ dashborads on microsoft excel. Visualized trends across product categories and the time intervals.
+4. Presented insights and recommendation
